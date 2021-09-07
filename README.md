@@ -1,4 +1,4 @@
-# CSGOSimple
+# CSGOSimple // Testing Purposes
 CSGOSimple is an internal cheat base. This fork was created after MarkHC stops working on this project
 
 ## Repositories:
